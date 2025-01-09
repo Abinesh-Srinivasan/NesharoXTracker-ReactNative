@@ -47,7 +47,7 @@ The **Nesharo Expense Tracker App** is a powerful user-friendly mobile applicati
 
 ## Tools & Technologies  
 
-- **Expo React Native**: For building the Cross Platform Mobile Application for both Android and IOS.  
+- **Expo React Native**: For building the Cross Platform Mobile Application for both Android and iOS.  
 - **NativeWind**: For styling and creating responsive designs.  
 - **Mobile Sharing Integration**: For exporting data through mobile apps.  
 
