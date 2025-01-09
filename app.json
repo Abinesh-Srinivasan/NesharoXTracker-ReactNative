@@ -15,8 +15,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.jpg",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.nesharo.NesharoXTracker"
+      }
     },
     "web": {
       "bundler": "metro",
@@ -36,14 +35,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "router": {
-        "origin": false
-      },
-      "eas": {
-        "projectId": "a1d9d8f1-6e35-4ac4-a49c-43b868903370"
-      }
     }
   }
 }
