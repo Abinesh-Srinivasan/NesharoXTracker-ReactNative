@@ -1,6 +1,6 @@
-# Nesharo Expense Tracker App  
+# Nesharo XTracker Application  
 
-The **Nesharo Expense Tracker App** is a powerful yet user-friendly mobile application for managing personal finances. It offers intuitive features to track, analyze, and manage expenses effectively, along with a dedicated section for developer information and additional utilities.  
+The **Nesharo Expense Tracker App** is a powerful user-friendly mobile application for managing personal finances. It offers intuitive features to track, analyze, and manage expenses effectively, along with a dedicated section for developer information and additional utilities.  
 
 ---
 
@@ -34,8 +34,8 @@ The **Nesharo Expense Tracker App** is a powerful yet user-friendly mobile appli
 ---
 
 ### 3. **Developer Tab**  
-- Includes information about the app developer, such as:  
-  - **Image**  
+- Includes information about the developer, such as:  
+  - **Nesharo's Image**  
   - **Name**  
   - **Website**  
   - **Social Media Links**  
@@ -47,7 +47,7 @@ The **Nesharo Expense Tracker App** is a powerful yet user-friendly mobile appli
 
 ## Tools & Technologies  
 
-- **React Native**: For building the mobile application.  
+- **Expo React Native**: For building the Cross Platform Mobile Application for both Android and IOS.  
 - **NativeWind**: For styling and creating responsive designs.  
 - **Mobile Sharing Integration**: For exporting data through mobile apps.  
 
