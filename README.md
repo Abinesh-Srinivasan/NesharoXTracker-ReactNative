@@ -67,4 +67,11 @@ Install the App from here: [Nesharo XTracker App](APK Pure link).
 
 ---
 
+## Base Repository  
+
+Visit the Version 1 repo of Nesharo XTracker: [ExpenseTracker-ReactNative](https://github.com/Abinesh-Srinivasan/ExpenseTracker-ReactNative).  
+
+---
+
+
 This app reflects my commitment to creating efficient and user-centric solutions for managing finances.
