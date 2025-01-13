@@ -152,7 +152,25 @@ const ExpenseDisplay: React.FC<ExpenseDisplayProps> = ({
   };
 
   const handleDelete = (id: number) => {
-    setExpenses((prev) => prev.filter((expense) => expense.id !== id));
+    // setExpenses((prev) => prev.filter((expense) => expense.id !== id));
+    Alert.alert(
+      "Msg from Nesharo",
+      "Hey Hey Do you want to delete this expense?",
+      [
+        {
+          text: "Cancel",
+          style: "cancel",
+        },
+        {
+          text: "Delete",
+          style: "destructive",
+          onPress: () => {
+            setExpenses((prev) => prev.filter((expense) => expense.id !== id));
+          },
+        },
+      ],
+      { cancelable: true }
+    );
   };
 
   const renderExpenseCard = ({ item }: { item: Expense }) => {
