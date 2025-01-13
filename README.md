@@ -1,50 +1,77 @@
-# Welcome to your Expo app 👋
+# Nesharo XTracker Application  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+The **Nesharo Expense Tracker App** is a powerful user-friendly mobile application for managing personal finances. It offers intuitive features to track, analyze, and manage expenses effectively, along with a dedicated section for developer information and additional utilities.  
 
-## Get started
+---
 
-1. Install dependencies
+## Features  
 
-   ```bash
-   npm install
-   ```
+### 1. **Expenses Tab**  
+- Allows users to **add**, **edit**, **view**, and **delete** expense records.  
+- Expense records include the following details:  
+  - **Category**  
+  - **Amount**  
+  - **Date**  
+  - **Description**  
+- Expenses are categorized into:  
+  - **Today**  
+  - **This Month**  
+  - **Past Expenses**  
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+### 2. **Dashboard Tab**  
+- Displays financial summaries and visualizations for three sections:  
+  - **Today**:  
+    - Shows budget limit, expenses, and remaining amount.  
+    - Includes a progress chart for daily expenses.  
+  - **This Month**:  
+    - Displays budget limit, expenses, and remaining amount.  
+    - Features a bar chart for daily expenses in the current month.  
+  - **Past Expenses**:  
+    - Highlights yearly expenses and allows users to input monthly totals for calculating annual expenses.  
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 3. **Developer Tab**  
+- Includes information about the developer, such as:  
+  - **Nesharo's Image**  
+  - **Name**  
+  - **Website**  
+  - **Social Media Links**  
+- Provides two important utility buttons:  
+  - **Export All Expenses**: Enables users to export their expense data via mobile sharing apps.  
+  - **Clear All Expenses**: Clears all existing expense records.  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## Tools & Technologies  
 
-When you're ready, run:
+- **Expo React Native**: For building the Cross Platform Mobile Application for both Android and iOS.  
+- **NativeWind**: For styling and creating responsive designs.  
+- **Mobile Sharing Integration**: For exporting data through mobile apps.  
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Learning Outcomes  
 
-## Learn more
+- Enhanced skills in building responsive and interactive mobile applications.  
+- Gained experience in data visualization and expense categorization.  
+- Implemented utility features like data export and clearing records.  
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Download the APK Application  
 
-## Join the community
+Install the App from here: [Nesharo XTracker App](APK Pure link)  
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Base Repository  
+
+Visit the Version 1 repo of Nesharo XTracker: [ExpenseTracker-ReactNative](https://github.com/Abinesh-Srinivasan/ExpenseTracker-ReactNative)  
+
+---
+
+
+This app reflects my commitment to creating efficient and user-centric solutions for managing finances.
