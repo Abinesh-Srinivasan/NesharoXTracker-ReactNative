@@ -63,7 +63,7 @@ The **Nesharo Expense Tracker App** is a powerful user-friendly mobile applicati
 
 ## Download the APK Application  
 
-Install the App from here: [Nesharo XTracker App](APK Pure link)  
+Install the App from here: [Nesharo XTracker App](https://nesharo.itch.io/nesharo-xtracker)  
 
 ---
 
